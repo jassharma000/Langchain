@@ -1,0 +1,23 @@
+# Model files
+models/
+*.bin
+*.pt
+*.safetensors
+
+# HuggingFace cache
+.cache/
+
+# Python
+__pycache__/
+.env
+*.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+my_saved_models/.env
+.env
+*.env
+models/
+__pycache__/
+*.pyc
